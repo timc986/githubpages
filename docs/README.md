@@ -1,5 +1,7 @@
 # timc986.github.io
 
+https://timc986.github.io/githubpages
+
 ## About me
 
 A fullstsack software developer based in the UK.<br/><br/>
